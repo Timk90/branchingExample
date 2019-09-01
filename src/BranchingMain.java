@@ -3,5 +3,7 @@ public class BranchingMain {
         System.out.println("Hello!");
         System.out.println("World! From Branch #1");
         System.out.println("It has been slightly changed...");
+        System.out.println("World...from the second branch...");
+        System.out.println(new SecondClass("Name"));
     }
 }
