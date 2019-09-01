@@ -5,5 +5,6 @@ public class BranchingMain {
         System.out.println("It has been slightly changed...");
         System.out.println("World...from the second branch...");
         System.out.println(new SecondClass("Name"));
+        System.out.println("one more line in master");
     }
 }
