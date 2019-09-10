@@ -21,7 +21,7 @@ public class GenericsMain {
         int number1 = intObgGen.getT();
         String str1 = strObgGen.getT();
 
-
+        System.out.println("Hello from master!");
 
 
     }
