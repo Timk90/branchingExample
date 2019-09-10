@@ -26,6 +26,8 @@ public class GenericsMain {
         String cat = "I am cat 1";
         System.out.println("I am gonna add here some comments in bransh 5");
 
+        System.out.println("I still want to add something");
+
 
     }
 
