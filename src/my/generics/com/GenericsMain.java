@@ -28,6 +28,7 @@ public class GenericsMain {
         String cat = "I am cat 1";
 
         System.out.println("Hello from b 4");
+        System.out.println("Hello 2d time from b 4");
 
     }
 
