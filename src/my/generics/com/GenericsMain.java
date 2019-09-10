@@ -21,8 +21,9 @@ public class GenericsMain {
         int number1 = intObgGen.getT();
         String str1 = strObgGen.getT();
 
+        System.out.println("I am gonna add here String in brancj 4");
 
-
+        String cat = "I am cat 1";
 
     }
 
