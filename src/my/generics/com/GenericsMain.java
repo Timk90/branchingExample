@@ -26,12 +26,20 @@ public class GenericsMain {
         System.out.println("I am gonna add here String in brancj 4");
 
         String cat = "I am cat 1";
+        
+        System.out.println("I am gonna add here some comments in bransh 5");
+
+        System.out.println("I still want to add something");
 
         System.out.println("Hello from b 4");
         System.out.println("Hello 2d time from b 4");
 
         System.out.println("new commit from four");
 
+        System.out.println("Hello from branch 5");
+        System.out.println("Hello 2 from branch 5");
+
+        System.out.println("Hi 5");
     }
 
 
