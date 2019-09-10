@@ -1,5 +1,7 @@
 package my.generics.com;
 
+import java.sql.SQLOutput;
+
 public class GenericsMain {
     public static void main(String[] args) {
         NonGen intObj = new NonGen(132);
@@ -24,6 +26,8 @@ public class GenericsMain {
         System.out.println("I am gonna add here String in brancj 4");
 
         String cat = "I am cat 1";
+
+        System.out.println("Hello from b 4");
 
     }
 
