@@ -40,6 +40,8 @@ public class GenericsMain {
         System.out.println("Hello 2 from branch 5");
 
         System.out.println("Hi 5");
+
+        System.out.println("After MR with b 4");
     }
 
 
